@@ -62,7 +62,7 @@ Result is displayed dynamically on the screen
 
 Download or clone the repository
 
-git clone https://github.com/your-username/age-calculator.git
+git clone https://github.com/saqib783/age-calc-in-js.git
 
 
 Open index.html in your browser
