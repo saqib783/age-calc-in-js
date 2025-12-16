@@ -75,7 +75,7 @@ Click Calculate Age 🎉
 
 A minimal dark-theme age calculator with instant results.
 
-(You can add a screenshot here later)
+(https://github.com/saqib783/age-calc-in-js/blob/34facfa0874fa280bfb71c9c290d9104c71b7af7/Screenshot%20(1089).png)
 
 📚 Learning Outcomes
 
